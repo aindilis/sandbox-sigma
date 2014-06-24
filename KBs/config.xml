@@ -1,0 +1,25 @@
+<configuration >
+  <preference value="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5" name="baseDir" />
+  <preference value="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5\\KBs" name="kbDir" />
+  <preference value="kif.exe" name="inferenceEngine" />
+  <preference value="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5\\KBs\\tests" name="inferenceTestDir" />
+  <preference value="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5\\webapps\\sigma\\tests" name="testOutputDir" />
+  <preference value="yes" name="typePrefix" />
+  <preference value="no" name="holdsPrefix" />
+  <preference value="yes" name="cache" />
+  <preference value="yes" name="TPTP" />
+  <preference value="" name="prolog" />
+  <preference value="" name="celtdir" />
+  <preference value="yes" name="showcached" />
+  <preference value="8080" name="port" />
+  <preference value="no" name="loadCELT" />
+  <preference value="" name="lineNumberCommand" />
+  <preference value="" name="editorCommand" />
+  <preference value="localhost" name="hostname" />
+  <preference value="SUMO" name="sumokbname" />
+  <kb name="SUMO" >
+    <constituent filename="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5\\KBs\\Merge.kif" />
+    <constituent filename="C:\\Program Files\\Apache Software Foundation\\Tomcat 5.5\\KBs\\english_format.kif" />
+  </kb>
+</configuration>
+

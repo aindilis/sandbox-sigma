@@ -1,0 +1,11 @@
+/InstallSigma.bat/1.1/Tue Aug 14 17:45:52 2007//
+/InstallSigma.sh/1.1/Tue Aug 14 17:46:14 2007//
+/SigmaProgrammer.pdf/1.3/Mon Sep  4 21:01:41 2006/-kb/
+/SigmaUserManual.pdf/1.7/Fri Aug 25 19:24:59 2006/-kb/
+/build.xml/1.4/Thu Jun 14 16:19:22 2007//
+/suo-kif.pdf/1.4/Wed Apr 28 04:01:30 2004/-kb/
+/web.xml/1.3/Tue Aug 29 17:15:48 2006//
+D/lib////
+D/src////
+D/web////
+D/${env.CATALINA_HOME}////

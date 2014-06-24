@@ -1,0 +1,94 @@
+sigma-2-02/
+
+    doc/
+        SigmaProgrammer.pdf
+        SigmaUserManual-2-02.pdf
+        suo-kif.pdf
+
+    inference/
+        kif-linux
+        kif.exe
+        SUMO-v.kif
+
+    InstallSigma.bat
+    InstallSigma.sh
+
+    KBs/
+        Merge.kif
+        english_format.kif
+        config.xml
+        language.txt
+        WordNetMappings-adj.txt
+        WordNetMappings-adv.txt
+        WordNetMappings-noun.txt
+        WordNetMappings-verb.txt
+        index.sense
+        noun.exc
+        verb.exc
+        wordFrequencies.txt
+        stopwords.txt
+
+    sigma/
+        <source code for Sigma>
+
+    tests/
+        TQG1.kif.tq
+        TQG2.kif.tq
+        TQG3.kif.tq
+        TQG4.kif.tq
+        TQG5.kif.tq
+        TQG6.kif.tq
+        TQG7.kif.tq
+        TQG8.kif.tq
+        TQG9.kif.tq
+        TQG10.kif.tq
+        TQG11.kif.tq
+        TQG12.kif.tq
+        TQG13.kif.tq
+        TQG14.kif.tq
+        TQG15.kif.tq
+        TQG16.kif.tq
+        TQG17.kif.tq
+        TQG18.kif.tq
+        TQG19.kif.tq
+        TQG20.kif.tq
+        TQG21.kif.tq
+        TQG22.kif.tq
+        TQG23.kif.tq
+        TQG24.kif.tq
+        TQG25.kif.tq
+        TQG26.kif.tq
+        TQG27.kif.tq
+        TQG28.kif.tq
+        TQG29.kif.tq
+        TQG30.kif.tq
+        TQG31.kif.tq
+        TQG32.kif.tq
+        TQG33.kif.tq
+        TQG34.kif.tq
+        TQG35.kif.tq
+        TQG36.kif.tq
+        TQG37.kif.tq
+        TQG38.kif.tq
+        TQG39.kif.tq
+        TQG40.kif.tq
+        TQG41.kif.tq
+        TQG42.kif.tq
+        TQG43.kif.tq
+        TQG44.kif.tq
+        TQG45.kif.tq
+        TQG46.kif.tq
+        TQG47.kif.tq
+        TQG48.kif.tq
+        TQG49.kif.tq
+        TQG50.kif.tq
+        test_assertions.kif
+        tq_notes.txt
+
+    LICENSE.txt
+
+    manifest.txt
+
+    README.txt
+
+    sigma.war

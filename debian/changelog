@@ -1,0 +1,5 @@
+sigma (2.02-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Andrew J. Dougherty <andrewdo@frdcsa.org>  Tue, 24 Jun 2014 13:25:39 -0500

@@ -1,0 +1,40 @@
+;; This file is not used when tests are run through the Sigma
+;; Inference Test Suite web interface.  It is just a convenience
+;; assertion entry mechanism for debugging individual inference
+;; tests.
+
+;; TQG5.tq.kif
+
+(instance Lizard5-1 Class)
+(instance Organism5-1 Lizard5-1)
+(instance Class5-1 Class)
+(subclass Class5-1 Organism)
+(instance Class5-2 Class)
+(subclass Class5-2 Organism)
+(instance Class5-3 Class)
+(subclass Class5-3 Organism)
+(instance Class5-4 Class)
+(subclass Class5-4 Organism)
+(instance Class5-5 Class)
+(subclass Class5-5 Organism)
+(instance Class5-6 Class)
+(subclass Class5-6 Organism)
+(instance Class5-7 Class)
+(subclass Class5-7 Organism)
+(instance Class5-8 Class)
+(subclass Class5-8 Organism)
+(instance Class5-9 Class)
+(subclass Class5-9 Organism)
+(instance Class5-10 Class)
+(subclass Class5-10 Organism)
+(equal Class5-1 Class5-2)
+(equal Class5-2 Class5-3)
+(equal Class5-3 Class5-4)
+(equal Class5-4 Class5-5)
+(equal Class5-5 Class5-6)
+(equal Class5-6 Class5-7)
+(equal Class5-7 Class5-8)
+(equal Class5-8 Class5-9)
+(equal Class5-9 Class5-10)
+(subclass Lizard5-1 Class5-1)
+(subclass Class5-10 Reptile)

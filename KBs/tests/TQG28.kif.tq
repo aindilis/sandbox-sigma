@@ -1,0 +1,25 @@
+(note TQG28)  ;; boolean version
+
+;; contrary attribute case elimination
+
+(instance Planet28-1 Class)
+(subclass Planet28-1 AstronomicalBody)
+
+(instance Rocky Attribute)
+(instance Icy Attribute)
+(instance Watery Attribute)
+(instance Gaseous Attribute)
+(contraryAttribute Rocky Icy Watery Gaseous)
+
+(instance Object28-1 Planet28-1)
+
+(attribute Object28-1 Watery)
+
+(query (not (attribute Object28-1 Gaseous)))
+
+(answer yes)
+
+
+;; Fails, probably because it requires support for lists and ListFn.
+
+;; TO DO: Specify a proof.
